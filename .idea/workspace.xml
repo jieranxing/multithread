@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -147,7 +150,7 @@
       <updated>1747753482638</updated>
       <workItem from="1747753486063" duration="963000" />
       <workItem from="1747795550005" duration="10108000" />
-      <workItem from="1747824908446" duration="8136000" />
+      <workItem from="1747824908446" duration="8744000" />
     </task>
     <servers />
   </component>
